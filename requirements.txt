@@ -3,3 +3,4 @@ fastapi-cache
 uvicorn
 redis
 python-dotenv
+sqlalchemy
